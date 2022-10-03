@@ -1,0 +1,6 @@
+Hello,
+
+<<PROJECT_DIR>> is the directory.
+
+
+WEW
